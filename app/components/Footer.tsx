@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
           <li>About</li>
           <li>Advertising</li>
           <li>Business</li>
-          <li>How Search works</li>
+          <li>Only For Learning Purpose</li>
         </ul>
         <ul className="flex ml-auto [&>*]:mr-6 text-sm text-slate-600">
           <li>Privacy</li>
